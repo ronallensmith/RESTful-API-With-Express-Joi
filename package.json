@@ -1,0 +1,20 @@
+{
+  "name": "restful-api-express-demo",
+  "version": "1.0.0",
+  "description": "A RESTful API demo using Node, Express, and Joi for validation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ron smith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
